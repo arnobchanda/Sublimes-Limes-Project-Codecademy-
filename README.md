@@ -6,7 +6,7 @@ The data is in the .py file.
 To run the program use the following command while being the same directory as the .py file: python sublimeLimes.py
 -------------------------------------------------------------------------------------------------------------------------------
 Dependancies:
-1. Matplotlib
+1. Matplotlib.
 This can be downloaded using pip3 in your terminal.
 -------------------------------------------------------------------------------------------------------------------------------
 Output:
